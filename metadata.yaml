@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: 'Translation of: Le village aérien'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18120#In-de-Oer-wouden-van-Afrika
 gutenberg_issued: '2006-04-05'
 gutenberg_type: Text
 identifiers:
